@@ -3,7 +3,7 @@
 **An ultra-lightweight, blazing-fast spawn plugin with advanced optimization and full customization support.**
 Perfect for any Minecraft server, from small survival worlds to large-scale networks.
 
-![Banner](https://your-banner-image-link)
+## [**Modrinth**](https://modrinth.com/plugin/conicspawn)
 [**Report Bugs & Get Support**](https://discord.gg/JvVv7wHQc7)
 
 ---
